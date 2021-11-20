@@ -1,0 +1,27 @@
+[  
+    {
+        "name": "Matrix",
+        "rating": "10/10",
+        "year": 1999
+    },
+
+    {
+        "name": "Toy story",
+        "rating": "10/10",
+        "year": 2000
+    },
+    
+
+    {
+        "name": "shot caller",
+        "rating": "10/10",
+        "year": 2017
+    },
+
+    {
+        "name": "Titanic",
+        "rating": "8/10",
+        "year": 1996
+    }
+
+]
